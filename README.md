@@ -162,9 +162,6 @@ When choosing, consider if your priority is maximum raw resources for the lowest
 
 ### Vultr Cloud Compute Pricing
 
-<a href="https://afftrend.com/vultr">
-  <img src="https://drive.google.com/uc?export=view&id=12LIneRUrV7n40Hs8x3E5YG8op62cScrF"  alt="Vultr Pricing">
-</a>
 
 1. **1 vCPU, 0.5 GB RAM (IPv6 Only)**
     - Memory: 0.5 GB
@@ -208,7 +205,7 @@ Vultr's pricing is very granular, includes NVMe by default, offers hourly billin
     - Select a plan based on your CPU, RAM, and storage needs. Choose your preferred global data center.
     - Register, complete payment, and any necessary identity verification.
     
-   
+
     
 2. **Receive Server Credentials**
     - Once your VPS is provisioned (usually quickly), Contabo will email your server's IP address, root username, and initial password.
@@ -226,8 +223,8 @@ Vultr's pricing is very granular, includes NVMe by default, offers hourly billin
     - Go to vultr.com and click "Sign Up."
     - Provide your email, create a password, and add billing information (credit card or PayPal often required for activation).
     
-    <a href="https://afftrend.com/vultr">
-  <img src="https://drive.google.com/uc?export=view&id=1YmfqRlntqfo_OOIofhL0ChtWWH7iaQuv"  alt="Vultr Signup page">
+ <a href="https://afftrend.com/vultr">
+  <img src="https://drive.google.com/uc?export=view&id=12LIneRUrV7n40Hs8x3E5YG8op62cScrF"  alt="Vultr Signup Page">
 </a>
     
 2. **Deploy a New Server Instance**
