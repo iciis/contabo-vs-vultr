@@ -156,6 +156,10 @@ Supports a wide range of operating systems (Linux, Windows, custom ISOs) and off
 
 When choosing, consider if your priority is maximum raw resources for the lowest cost (Contabo) or a high-performance, feature-rich, globally distributed platform designed for developers and scalable applications (Vultr).
 
+<a href="https://afftrend.com/contabovsvultr"> 
+<img src="https://drive.google.com/uc?export=view&id=16GPccgw1mUkqXJFEgnBxrvcdlH8lrHot" alt="Check Detailed Features"> 
+</a>
+
 ## **Pricing of Products**
 
 ### Contabo VPS Pricing
@@ -224,6 +228,10 @@ Contabo offers significantly more CPU cores and RAM at lower price points. For e
 
 Vultr's pricing is very granular, includes NVMe by default, offers hourly billing, and has a much wider array of instance types and global locations which Contabo doesn't match in the same developer-centric platform way. Vultr's bandwidth is more metered compared to Contabo's large 32TB standard allowance.
 
+<a href="https://afftrend.com/contabovsvultr"> 
+<img src="https://drive.google.com/uc?export=view&id=1mdffWcd3DvUaZL-rR-TEsvkTFz-ljfKZ" alt="Compare Pricing Plans"> 
+</a>
+
 ## **How to Use**
 
 ### **Contabo VPS Usage Guide**
@@ -275,6 +283,10 @@ Vultr's pricing is very granular, includes NVMe by default, offers hourly billin
 - Choose **Vultr** if you are a developer or business needing a flexible, high-performance cloud platform with extensive global reach, NVMe SSDs by default, hourly billing, a rich API, and a wider ecosystem of cloud services (Load Balancers, Object Storage, etc.) for scalable applications.
 
 Understanding the deployment and management style of each provider is key. Vultr offers a more typical "cloud platform" experience, while Contabo provides straightforward, high-resource virtual servers.
+
+<a href="https://afftrend.com/contabovsvultr"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
 
 ## **Use Case**
 
