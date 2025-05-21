@@ -121,26 +121,37 @@ Offers flexibility with storage, providing options for faster NVMe SSDs on some 
 Recently introduced "VPS with Auto Backup" as a feature. While unmanaged, Contabo supports the installation of control panels like cPanel with licenses typically being an additional cost.
 
 <a href="https://afftrend.com/contabovps">
-  <img src="https://drive.google.com/uc?export=view&id=1hjdCaj9EInCK1eOAiWcbP_dHPJjcf2vQ/"  alt="VPS Auto Backup & Control Panel Options">
+  <img src="https://drive.google.com/uc?export=view&id=1hjdCaj9EInCK1eOAiWcbP_dHPJjcf2vQ" width="800px" alt="VPS Auto Backup">
 </a>
 
 ### Vultr Cloud Compute Key Features
 
 1. **Extensive Global Network (32+ Locations):**
+   
 Vultr boasts one of the largest networks with data centers strategically located across the globe, ensuring low latency and high availability for users worldwide.
 
+<a href="https://afftrend.com/vultr">
+  <img src="https://drive.google.com/uc?export=view&id=1bufyulowAqzx70YnEhDqHeRpkVpmeK_0"  alt="Vultr Cloud Compute">
+</a>
 
-
-1. **High-Performance NVMe SSD Storage:**
+2. **High-Performance NVMe SSD Storage:**
+   
 All standard Cloud Compute instances utilize 100% NVMe SSDs, delivering superior disk I/O performance crucial for databases and dynamic websites.
-2. **Rich Ecosystem of rapid connections:**
+
+3. **Rich Ecosystem of rapid connections:**
+
 Beyond VPS, Vultr offers a suite of compatible services like Object Storage, Load Balancers, CDN, Managed Databases, and Kubernetes, allowing users to build comprehensive cloud solutions.
 
+<a href="https://afftrend.com/vultr">
+  <img src="https://drive.google.com/uc?export=view&id=1qsDLNAk_1E3SLMjFovyCcpo9KvJdnYeS"  alt="Vultr Rich Ecosystem of rapid connections">
+</a>
 
-
-1. **Developer-Friendly Platform & Tools:**
+4. **Developer-Friendly Platform & Tools:**
+   
 Provides a powerful API, an intuitive control panel, CLI tools, and features like "Upload ISO" and "One-Click Deploy" for applications like Docker, WordPress, and various development stacks.
-2. **Flexible OS & Instance Options:**
+
+5. **Flexible OS & Instance Options:**
+   
 Supports a wide range of operating systems (Linux, Windows, custom ISOs) and offers diverse compute instances, including general purpose, high frequency, dedicated CPU, memory-optimized, and storage-optimized, to match specific workload requirements.
 
 When choosing, consider if your priority is maximum raw resources for the lowest cost (Contabo) or a high-performance, feature-rich, globally distributed platform designed for developers and scalable applications (Vultr).
