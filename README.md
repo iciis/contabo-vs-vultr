@@ -97,20 +97,32 @@ Vultr, while also competitively priced, focuses more on providing a high-perform
 ### Contabo VPS Key Features
 
 1. **Extreme Resource Allocation:**
+   
 Contabo's hallmark is offering substantially more vCPU cores, RAM, and storage (NVMe/SSD) per euro/dollar compared to most competitors, making it ideal for resource-hungry applications on a budget.
+
 2. **Specialized Storage VPS:**
+   
 Dedicated VPS plans providing large SSD capacities (e.g., 300GB SSD for ~€5.36) at very low price points, perfect for data archiving or applications needing significant local storage.
 
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=1RlOLRybW_h6uwweNVfamFESqQCeAlSXW"  alt="Specialized Storage VPS">
+</a>
 
-
-1. **Global Data Center Options:**
+3. **Global Data Center Options:**
+   
 Users can choose from various locations in Europe (Germany, UK), the USA (multiple regions), Asia (Singapore, Japan), and Australia, allowing for strategic server placement to reduce latency for target audiences.
-2. **NVMe and Standard SSD Choices:**
+
+4. **NVMe and Standard SSD Choices:**
+   
 Offers flexibility with storage, providing options for faster NVMe SSDs on some Cloud VPS plans or larger capacity standard SSDs, catering to different performance and storage needs.
-3. **VPS Auto Backup & Control Panel Options:**
+
+5. **VPS Auto Backup & Control Panel Options:**
+   
 Recently introduced "VPS with Auto Backup" as a feature. While unmanaged, Contabo supports the installation of control panels like cPanel with licenses typically being an additional cost.
 
-
+<a href="https://afftrend.com/contabovps">
+  <img src="https://drive.google.com/uc?export=view&id=1hjdCaj9EInCK1eOAiWcbP_dHPJjcf2vQ/"  alt="VPS Auto Backup & Control Panel Options">
+</a>
 
 ### Vultr Cloud Compute Key Features
 
@@ -138,7 +150,7 @@ When choosing, consider if your priority is maximum raw resources for the lowest
 ### Contabo VPS Pricing
 
 <a href="https://afftrend.com/contabo">
-  <img src="https://drive.google.com/uc?export=view&id=/1-bCT7FQ1eLBFIKenAhmAFCqhMM51UmHM"  alt="Contabo VPS Pricing">
+  <img src="https://drive.google.com/uc?export=view&id=1-bCT7FQ1eLBFIKenAhmAFCqhMM51UmHM"  alt="Contabo VPS Pricing">
 </a>
 
 1. **Storage VPS 10** 
@@ -270,6 +282,10 @@ Understanding the deployment and management style of each provider is key. Vultr
 If your project's success hinges on squeezing every last drop of RAM and CPU core from a minimal budget, and you have the skills to manage it, Contabo is a strong contender, especially for storage-heavy tasks.
 
 However, for developers and businesses needing a reliable, high-performance, and globally distributed cloud platform with a rich feature set, extensive API, and the flexibility of hourly billing, Vultr typically offers a more robust and scalable solution, albeit at a higher price for equivalent raw resource numbers compared to Contabo's headline figures.
+
+<a href="https://afftrend.com/contabovsvultr"> 
+<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
+</a>
 
 ## **Customer Support**
 
